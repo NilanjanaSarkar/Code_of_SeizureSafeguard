@@ -92,3 +92,32 @@ A FIRST “GRAND MAL” CONVULSION IS FRIGHTENING, YET PROSPECTIVE, POPULATION-B
 People with lesions of their brain, which can result from tumors or stroke, may have unusually slow EEG waves, depending on the size and the location of the lesion.
   - The test can also be used to diagnose other disorders that influence brain activity, such as Alzheimer's disease, certain psychoses, and a sleep disorder called narcolepsy.
   - The EEG may also be used to determine the overall electrical activity of the brain (for example, to evaluate trauma, drug intoxication, or extent of brain damage in comatose patients). The EEG may also be used to monitor blood flow in the brain during surgical procedures.
+
+- ### How EEG works in detecting epilepsy
+Hans Berger, a German psychiatrist, discovered the human electroencephalogram (EEG) in 1929. Since then, EEG has been a key tool in diagnosing and treating patients with seizure disorders. It helps determine seizure type, epilepsy syndrome, and aids in selecting appropriate antiepileptic medications.
+An EEG is a test that detects abnormalities in brain waves, or in the electrical activity of the brain. During the procedure, electrodes consisting of small metal discs with thin wires are pasted onto your scalp. The electrodes detect tiny electrical charges that result from the activity of brain cells.
+The charges are amplified and appear as a graph on a computer screen, or as a recording that may be printed out on paper. A healthcare provider then interprets the reading.
+
+- ###  Existing Devices
+    - **SEIZALARM**
+Alerts emergency contacts when seizure-like motion or low/elevated heart rate is detected.
+✔️App includes a log dashboard where reports can be exported to share with doctor.
+❌You must have an Apple Watch to effectively detect motion
+  - EMBRACE 2
+Utilises Electrodermal Activity to evaluate the ease with which an electrical signal travels through the skin. Fluctuations in the skin occur from alterations in the brain during a convulsive seizure.
+✔️It also has applications such as an event detector and a dairy application
+❌It does not detect complex partial seizures or absence seizures.
+
+ *We can offer a better accuracy owing to the fact that we will be tracking EEG data to detect epileptic seizure.*
+
+ - ### Future Scope of Our Project
+  - Integration with Electronic Health Records
+  - Customization and Personalization
+  - Telemedicine Integration
+  - Partnerships with Healthcare Institutions
+  - Continuous Research and Development
+
+- ### Conclusion
+Our project represents a significant step forward in the field of healthcare technology, specifically in the realm of epilepsy detection and management. By harnessing the power of IoT technologies, we have developed an automated system that can detect seizures in individuals with epilepsy in real-time. Through the utilization of wearable sensors and sophisticated algorithms, our system continuously monitors physiological signals and movement patterns, enabling timely detection of seizure activity. This functionality is crucial in providing prompt assistance and intervention, ultimately improving the safety and well-being of individuals living with epilepsy. Furthermore, our project emphasizes user-friendliness and accessibility, with a focus on developing a seamless interface for both users and healthcare professionals. By prioritizing ease of use and comprehensive data analysis, we aim to enhance the quality of life for individuals with epilepsy and streamline the management process for caregivers and medical personnel. Looking ahead, our project holds promise for scalability and integration with emerging technologies. We envision future collaborations with healthcare institutions to further refine and expand the capabilities of our system, ultimately advancing the standard of care for epilepsy patients worldwide. In essence, our project represents more than just a technological innovation; it embodies our commitment to improving healthcare outcomes and making a meaningful difference in the lives of those affected by epilepsy.
+
+
