@@ -63,4 +63,33 @@ Mobile App Integration: A companion mobile application is developed to complemen
 - ### Project Implementation
 The implementation of the device involves a synergistic combination of embedded systems, signal processing techniques, and wireless communication technologies. The device processes EEG data locally, and upon seizure detection, it seamlessly communicates with the paired mobile app to trigger alerts, ensuring a swift and efficient response to potential seizure episodes.
 ![implementation](https://github.com/NilanjanaSarkar/Code_of_SeizureSafeguard/assets/128829592/941ae391-85d5-4e33-a418-b7e842f1be93)
+A block diagram of epileptic seizure detection using EEG signals and machine/deep learning techniques.
+  - **Ethical Considerations:**
+Privacy and security are paramount in the implementation of the device, it strictly adheres to all relevant privacy regulations to safeguard the user's sensitive health data. Informed consent and user education are integral components of the deployment process, ensuring users are fully aware of how their data is utilised and upholding ethical standards in the utilisation of health-related information. Our proposed work not only emphasises technological innovation in seizure detection but also places a significant emphasis on user-centric design, ethical considerations, and privacy protection to ensure a holistic and responsible approach to healthcare technology development.
 
+- ### Epileptic Case Study
+Rita, a 13-year-old girl, experienced her first seizure in June 2013 while suffering from a high fever in Kolkata, India. Teeth bonded for ten to fifteen seconds, causing weakness, unconsciousness, and blurred vision. Under the care of a neurologist who prescribed generic medications Second seizure in Kolkata on July 16, 2017, at 18:00 IST After being brought to a nearby nursing home, the patient received injections of phenytoin, normal saline, and steroids. Admitted for four days, during which time they had blood, stool, chest, and EEG tests. Diagnosis: Myoclonic seizures, juvenile myoclonic epilepsy, primary generalised tonic-clonic seizures, probable onset seizures with or without generalisation, and idiopathic generalised epilepsy. Levetiracetam prescribed (LEVERA 500MG TABLET)
+
+- ### Symptoms of Epilepsy
+Seizures are abrupt, uncontrollable electrical disruptions in the brain that can take on a variety of forms. Loss of Consciousness: During a seizure, some people may experience a loss of awareness or consciousness. Jerking Movements: Seizures are frequently accompanied by jerking movements or involuntary muscle contractions. Periods of inaction or blank staring are known as staring spells. Temporary Confusion: Following a seizure, people may feel lost or confused. Fatigue: Experiencing seizures can be mentally and physically taxing. Headache: In certain situations, headaches or migraines may occur after a seizure. Sleep disturbances can result from seizures, which can interfere with regular sleep cycles. Grand mal seizures, also referred to as tonic-clonic movements, are typified by jerky movements that are followed by a stiffening of the muscles.
+
+- ### Brief Description of Epilesy
+A brain-related neurological disorder called epilepsy increases a person's risk of experiencing frequent , spontaneous seizures. It is one of the most widespread ner vous system disorders, affecting individuals of all ages, races, and ethnicities.
+Globally, the estimated number of persons living with epilepsy (PWE) is 50 million. India is home to about one-sixth of this population. In India, there are about 10–12 million epileptics living there.
+An individual may be diagnosed with epilepsy if they have an epilepsy syndrome or have experienced an unprovoked seizure and have a high probability (>60%) of experiencing another seizure within the next ten years.
+
+- ### Types of Epileptic Seiures
+![EP-142-CC-01-v2@2x](https://github.com/NilanjanaSarkar/Code_of_SeizureSafeguard/assets/128829592/ed9db662-ea41-480f-9734-227ed2901f31)
+
+- ### Epilepsy recent trends and data
+EPILEPSY ACCOUNTS FOR A SIGNIFICANT PROPORTION OF THE WORLD’S DISEASE BURDEN, AFFECTING AROUND 50 MILLION PEOPLE WORLDWIDE.
+ABOUT 3 OUT OF 10 PEOPLE CONTINUE TO HAVE SEIZURES DESPITE TRYING OUT DIFFERENT TREATMENTS.
+A FIRST “GRAND MAL” CONVULSION IS FRIGHTENING, YET PROSPECTIVE, POPULATION-BASED STUDIES INDICATE THAT WE ALL FACE AN 8-10% LIFETIME RISK OF ONE SEIZURE1 AND A 3% CHANCE OF EPILEPSY 
+![307343299-8398edac-0658-4e39-8bb1-794a824e458b]
+(https://github.com/NilanjanaSarkar/Code_of_SeizureSafeguard/assets/128829592/e74280ce-8f6c-47ca-8500-2b68990b5018)
+
+- ### Need of EEG
+  - The EEG is used to evaluate several types of brain disorders. When epilepsy is present, seizure activity will appear as rapid spiking waves on the EEG.
+People with lesions of their brain, which can result from tumors or stroke, may have unusually slow EEG waves, depending on the size and the location of the lesion.
+  - The test can also be used to diagnose other disorders that influence brain activity, such as Alzheimer's disease, certain psychoses, and a sleep disorder called narcolepsy.
+  - The EEG may also be used to determine the overall electrical activity of the brain (for example, to evaluate trauma, drug intoxication, or extent of brain damage in comatose patients). The EEG may also be used to monitor blood flow in the brain during surgical procedures.
