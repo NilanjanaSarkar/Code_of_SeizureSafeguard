@@ -59,3 +59,8 @@ Automatic Message Sending: Our device is equipped with a communication module th
   - **User-Friendly Interface:** The device prioritises an intuitive user interface, providing real-time EEG data, customizable alert settings, and battery status. This user-centric design aims to facilitate ease of use and seamless interaction with the device.
 Mobile App Integration: A companion mobile application is developed to complement the device, allowing users to customise alert settings, visualise historical seizure data, and manage emergency contacts. This integration provides users with a comprehensive tool for monitoring and managing their epilepsy.
   - **Power Efficiency:** Efficient power management is at the forefront of the device's design, incorporating features such as automatic sleep modes during inactive monitoring periods. This ensures an extended battery life, minimising disruptions in monitoring due to frequent recharging.
+
+- ### Project Implementation
+The implementation of the device involves a synergistic combination of embedded systems, signal processing techniques, and wireless communication technologies. The device processes EEG data locally, and upon seizure detection, it seamlessly communicates with the paired mobile app to trigger alerts, ensuring a swift and efficient response to potential seizure episodes.
+![implementation](https://github.com/NilanjanaSarkar/Code_of_SeizureSafeguard/assets/128829592/941ae391-85d5-4e33-a418-b7e842f1be93)
+
