@@ -85,8 +85,7 @@ An individual may be diagnosed with epilepsy if they have an epilepsy syndrome o
 EPILEPSY ACCOUNTS FOR A SIGNIFICANT PROPORTION OF THE WORLD’S DISEASE BURDEN, AFFECTING AROUND 50 MILLION PEOPLE WORLDWIDE.
 ABOUT 3 OUT OF 10 PEOPLE CONTINUE TO HAVE SEIZURES DESPITE TRYING OUT DIFFERENT TREATMENTS.
 A FIRST “GRAND MAL” CONVULSION IS FRIGHTENING, YET PROSPECTIVE, POPULATION-BASED STUDIES INDICATE THAT WE ALL FACE AN 8-10% LIFETIME RISK OF ONE SEIZURE1 AND A 3% CHANCE OF EPILEPSY 
-![307343299-8398edac-0658-4e39-8bb1-794a824e458b]
-(https://github.com/NilanjanaSarkar/Code_of_SeizureSafeguard/assets/128829592/e74280ce-8f6c-47ca-8500-2b68990b5018)
+![307343299-8398edac-0658-4e39-8bb1-794a824e458b](https://github.com/NilanjanaSarkar/Code_of_SeizureSafeguard/assets/128829592/189e1bbd-cb9b-4d7f-8e54-6a0c5460c948)
 
 - ### Need of EEG
   - The EEG is used to evaluate several types of brain disorders. When epilepsy is present, seizure activity will appear as rapid spiking waves on the EEG.
